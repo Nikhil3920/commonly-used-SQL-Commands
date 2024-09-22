@@ -1,5 +1,5 @@
-# commonly used SQL commands
-# open SQL file to check commands
+# Commonly used SQL commands
+# Open SQL file to check commands
 This repository provides a comprehensive collection of commonly used SQL commands and concepts, meticulously designed to assist users in effectively managing and querying databases across various applications. It begins with foundational elements, covering the creation of databases and tables, where users will learn to define essential attributes such as primary keys, data types, and the relationships between different tables. Following this, the repository delves into the process of data insertion, enabling users to populate their databases with relevant information essential for analysis and reporting.
 
 Furthermore, users will explore advanced methods for data retrieval through the use of SELECT statements. This section emphasizes filtering results with specific conditions, sorting data to meet analytical needs, and employing limits to control the volume of records returned. The repository also introduces the concept of views, which act as virtual tables that present specific subsets of data, thereby simplifying complex queries and enhancing the user experience.
